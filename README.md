@@ -8,6 +8,10 @@ A lightweight C++ library for implementing an observer pattern with notification
 
 Clone the repository and include the `notification.h` header file in your project.
 
+## Usage
+
+When calling the postNotification function, you can pass parameters of any type. Please refer to the usage demo for details.
+
 ```cpp
 #include "notification.h"
 
