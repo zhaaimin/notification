@@ -2,7 +2,7 @@
 
 # Notification Component
 
-A lightweight C++ library for implementing an observer pattern with notifications.
+A lightweight C++ library for implementing an observer pattern with notifications.this library requires support for C++14 or higher.
 
 ## Installation
 
